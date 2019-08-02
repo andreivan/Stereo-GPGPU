@@ -10,7 +10,8 @@ This project contains various stereo matching code in CPU and GPU
   - Winner takes all
   - Various image filters
 
-Grab the .exe demo files [here](https://github.com/andreivan/Stereo-GPGPU/tree/master/Release). Only optimized for desktop with 1920x1080 resolution.
+Grab the .exe demo files [here](https://github.com/andreivan/Stereo-GPGPU/tree/master/Release). Only optimized for desktop with 1920x1080 resolution. See the video [here](https://www.youtube.com/watch?v=r3pR9F7mhUw) 
+
 ### Libraries
 
 | Libraries | Link |
